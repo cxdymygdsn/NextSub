@@ -1,4 +1,4 @@
-# 稿 — gao
+# NextSub
 
 **文稿字幕处理工具 — CrispASR GGUF + Qwen3 ASR + Wav2Vec2 **
 
