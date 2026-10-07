@@ -1,5 +1,7 @@
 # NextSub
 
+https://www.nextsub.cn/
+
 **A smart subtitle tool — ASR · Alignment · Editing · NLE Bridge**
 <img width="1402" height="928" alt="ScreenShot_2026-09-08_221244_590" src="https://github.com/user-attachments/assets/8de4432c-7aa1-4110-9bac-049d3d1e91d3" />
 <img width="1402" height="928" alt="ScreenShot_2026-09-08_221304_543" src="https://github.com/user-attachments/assets/99a08ee0-25eb-4f14-8157-6c9af52741aa" />
