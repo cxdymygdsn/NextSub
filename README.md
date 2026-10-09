@@ -66,7 +66,7 @@ https://www.nextsub.cn/
 ### Support
 
 Some advanced features are donor-exclusive (batch processing, Smart Convert, Smart Split, etc.).
-Support development on [Afdian](https://afdian.com/a/xfyy_gao) — thank you!
+Support development on [Afdian](https://afdian.com/a/nextsub) — thank you!
 
 ### License
 
@@ -129,4 +129,4 @@ Personal software. Commercial use is not permitted.
 ### 支持
 
 部分高级功能为捐赠用户专享（批量处理、字幕智能转换、智能分割等）——
-支持开发请访问 [爱发电](https://afdian.com/a/xfyy_gao)，感谢你的支持！
+支持开发请访问 [爱发电](https://afdian.com/a/nextsub)，感谢你的支持！
